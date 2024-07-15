@@ -1,4 +1,4 @@
-# Tampermonkey Script for Downloading Manga Images from newtoki.help
+# Tampermonkey Script for Downloading Manhwa Images from newtoki.help
 
 ## Description
 This Tampermonkey script enhances the functionality of newtoki.help by allowing users to download all manga images from the site with a single click.
