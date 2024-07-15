@@ -52,8 +52,9 @@
         const button = document.createElement('button');
         button.innerText = 'Download All Manga Images';
         button.style.position = 'fixed';
-        button.style.top = '20px';
-        button.style.right = '20px';
+        button.style.top = '10px';
+        button.style.left = '50%'; 
+        button.style.transform = 'translateX(-50%)'; 
         button.style.zIndex = '9999';
         button.addEventListener('click', async () => {
             await waitForImagesToLoad();
