@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Download Manga Images from Newtoki
+// @name         Newtoki downloader
 // @namespace    -
 // @version      0.1
 // @description  Download  raw manhwa images from Newtoki 
