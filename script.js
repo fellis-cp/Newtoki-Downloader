@@ -1,11 +1,13 @@
 // ==UserScript==
-// @name         tampermonkey script for downloading image from  https://newtoki.help/*
+// @name         Download Manga Images from Newtoki
 // @namespace    -
 // @version      0.1
-// @description  Download manhwa from https://newtoki.help/*
+// @description  Download  raw manhwa images from Newtoki 
+// @author       Hanif Anggara
 // @match        https://newtoki.help/*
 // @grant        GM_download
 // ==/UserScript==
+
 
 (function() {
     'use strict';
